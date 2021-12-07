@@ -3,7 +3,7 @@
 - 🌱 **Full Stack Developer** at Codeable
 
 ### 🛠️ Skills 
-- **Languages and Tools**:  React, RoR, Javascript, Ruby, SQL
+- **Languages and Tools**:  Node.JS, React, RoR, Javascript, Ruby, SQL
 - **DevOps**:   Linux, Git, Docker, REST API
 
 <!--
